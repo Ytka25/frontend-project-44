@@ -21,7 +21,7 @@ export default [
         rules: {
             '@stylistic/indent': ['error', 4],
             '@stylistic/quotes': ['error', 'single'],
-            '@stylistic/semi': ['error', 'never'],   // Без точек с запятой
+            '@stylistic/semi': ['error', 'never'],   
             '@stylistic/eol-last': ['error', 'always'],
         },
     },
